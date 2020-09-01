@@ -3,11 +3,11 @@ A simple C script to do definite integration using <a href="https://en.wikipedia
 
 Uses <a href="https://github.com/codeplea/tinyexpr">tinyexpr</a>, a library that converts strings into math expressions.
 
-Run the script with following arguments (increment, lowerBound, upperBound, expression)
+Run the script with the following arguments (increment, lowerBound, upperBound, expression)
 <br>Increment: a decimal number which represents the size of each simpsons rule increment. 
 <br>Lower Bound: a decimal number which represents the lower bound of the definite integral.
 <br>Upper Bound: a decimal number which represents the upper bound of the definite integral.
-<br>Expression: A string which represents the mathmatical formula, must use only a X as a variable. Do not include spaces in this expression, you may use stand math.h library functions like sqrt(). 
+<br>Expression: A string which represents the mathmatical formula, must use only X as a variable. Do not include spaces in this expression, you may use standard math.h library functions like sqrt(). 
 
 <br>Will print out a decimal approximation of the integral.
 
