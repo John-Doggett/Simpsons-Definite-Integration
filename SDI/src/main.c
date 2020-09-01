@@ -49,8 +49,11 @@ int main(int argc, char *argv[])
         x+= increment;
     }
     output = output * (increment / 3);
-
+    
+   
     printf("%f", output);
-
+    
+    free(expression);
+    free(argv);
     return 0;
 }
