@@ -12,7 +12,7 @@ Run the script with the following arguments (increment, lowerBound, upperBound, 
 <br>Will print out a decimal approximation of the integral.
 
 Example arguments (.001, 0, 5, x^2)
-Output: 41.641677
+<br>Output: 41.641677
 
 This script will check to make sure you enter only 4 arguments, if you don't it will output:
 <br>Incorrect arguments! Please use: double increment, double lowerbound, double upperbound, string expression
