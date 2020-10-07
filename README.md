@@ -1,5 +1,5 @@
 # Simpsons-Definite-Integration
-A simple C script to do definite integration using <a href="https://en.wikipedia.org/wiki/Simpson%27s_ruler">Simpson's Rule</a>
+A simple C script to do definite integration using <a href="https://en.wikipedia.org/wiki/Simpson%27s_rule">Simpson's Rule</a>
 
 Uses <a href="https://github.com/codeplea/tinyexpr">tinyexpr</a>, a library that converts strings into math expressions.
 
